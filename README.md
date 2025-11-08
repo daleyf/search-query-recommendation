@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Telepathic Engineer Take-Home — Search Query Recommendation Engine
 
 A **Notion-inspired web app** that helps content and SEO managers discover **new, high-potential search prompts** relevant to their company’s domain — automatically recommending the top 5 missing prompts that users *should* be tracking.
